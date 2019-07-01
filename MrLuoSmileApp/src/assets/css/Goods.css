@@ -1,0 +1,25 @@
+
+.detail {
+  font-size: 0px;
+}
+.goods-name {
+  background-color: #fff;
+}
+.goods-price {
+  background-color: #fff;
+}
+.goods-bottom {
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  background-color: #fff;
+  width: 100%;
+
+  display: flex;
+  flex-direction: row;
+  flex-flow: nowrap;
+}
+.goods-bottom > div {
+  flex: 1;
+  padding: 5px;
+}

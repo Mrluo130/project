@@ -1,0 +1,25 @@
+.top-img {
+  width: 70px;
+  height: 70px;
+  border-radius: 50px;
+}
+.top {
+  height: 5rem;
+  /* padding-top: 2rem; */
+  background-color: #eea2ad;
+  display: flex;
+  align-items: center;
+}
+.login {
+  display: flex;
+  flex-direction: row;
+  background-color: #fff;
+  padding: 10px;
+}
+.login div {
+  flex: 1;
+  text-align: center;
+}
+.sdd {
+  text-align: left;
+}
